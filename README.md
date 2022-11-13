@@ -56,7 +56,5 @@ To write custom bots you can:
 
 - [Crypto Trading Strategy Backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester)
 - [Binance Spot Trading Bot](https://github.com/smzerehpoush/binance-spot-trading-bot)
+ 
 
-## Credits
-
-[Erfan Alimohammadi](https://github.com/Erfaniaa) and [Amir Reza Shahmiri](https://github.com/Amirrezashahmiri)
